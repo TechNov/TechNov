@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TechNov
+- 👋 Hi, I’m OUATTARA
 - 👀 I’m interested in dev Web and Mobile, devop, AI, Datascience
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on open source or private project
